@@ -2,7 +2,7 @@ server:
   port: 8081
 
 mes-config-ms:
-  commandes-last: 10
+  commandes-last: 20
 
 spring:
   datasource:
